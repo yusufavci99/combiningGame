@@ -1,0 +1,17 @@
+import javax.swing.*;
+import java.io.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class Test1 {
+
+   public static void main( String[] args) throws FileNotFoundException{
+         GameTestFrame test;
+         test = new GameTestFrame();
+         test.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+         
+      
+   }
+   
+   
+}

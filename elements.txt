@@ -1,0 +1,11 @@
+madde,null,null
+toprak,madde,madde
+su,madde,madde
+çamur,toprak,su
+canlý,çamur,su
+dinozor,canlý,toprak
+dinozor,null,null
+dinozor yumurtasý,dinozor,dinozor
+kýrýk dinozor yumurtasý,dinozor yumurtasý,dinozor yumurtasý
+bebek dinozor,dinozor yumurtasý,dinozor
+topitop,bedi,bedi

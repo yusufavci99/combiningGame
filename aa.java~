@@ -1,0 +1,15 @@
+ static String timeConversion(String s) {
+        /*
+         * Write your code here.
+         */
+        int h;
+ 
+        if(!s.substring( s.length()-2,s.length()).equals("AM")) {
+            h = Integer.parseInt(s.substring(0,2));
+            h = (h + 12)%24;
+            return "" + h + s.substring(2,s.length() - 3);
+        }
+        else {
+            return s.substring(0,s.length() - 3);
+        }
+    }
