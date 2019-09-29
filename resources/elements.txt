@@ -1,0 +1,10 @@
+matter,null,null
+soil,matter,matter
+water,matter,matter
+mud,soil,water
+life,mud,water
+dino,life,soil
+dino,null,null
+dino egg,dino,dino
+broken dino egg,dino egg,dino egg
+baby dino,dino egg,dino

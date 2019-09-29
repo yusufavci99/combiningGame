@@ -1,5 +1,0 @@
-import java.io.*;
-
-public class ElementSet throws FileNotFoundException {
-   File
-}
